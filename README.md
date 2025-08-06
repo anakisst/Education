@@ -1,7 +1,8 @@
 # Education
 ## Degree
 University of Washington, Seattle - B.S. Health Informatics and Health Information Management
+## Military Education
+Cyberspace Defense Warrant Officer Basic Course (WOBC)
+# /Education/Palo Alto/
 ## Certification
-CompTIA Security+
-CompTIA Network+
-CompTIA A+
+* CompTIA - Security+ / Network+ / A+ / ITF+
