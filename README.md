@@ -1,2 +1,3 @@
 # Education
-This is my education page
+## Degree
+University of Washington, Seattle - B.S. Health Informatics and Health Information Management
