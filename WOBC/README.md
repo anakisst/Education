@@ -1,4 +1,4 @@
-Warrant Officer Basic Course (WOBC) - Cyberspace Defense 
+# Cyberspace Defense Warrant Officer Basic Course (WOBC) 
 * Cisco Certified Network Associate (CCNA)
 * Linux
 * Palo Alto
