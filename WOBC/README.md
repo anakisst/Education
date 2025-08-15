@@ -4,3 +4,4 @@
 * [Palo Alto](https://github.com/anakisst/Education/blob/main/WOBC/Palo%20Alto)
 * [Assured Compliance Assessment Solution](https://github.com/anakisst/Education/blob/main/WOBC/ACAS)
 * Endpoint Security and SIEM Platform - [elastic ](https://github.com/anakisst/Education/blob/main/WOBC/elastic)
+* Virtualization - VMware
