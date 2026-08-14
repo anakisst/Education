@@ -1,6 +1,6 @@
 # Education
 ## Civilian
-* University of Washington, Seattle - B.S. Health Informatics and Health Information Management
+* University of Washington, Seattle - B.S. Health Informatics and Health Information Management (HIHIM)
 ## Military 
 * Cyberspace Defense Warrant Officer Basic Course (WOBC)
 ## Certification
