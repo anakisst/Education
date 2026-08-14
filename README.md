@@ -4,4 +4,4 @@ University of Washington, Seattle - B.S. Health Informatics and Health Informati
 ## Military Education
 Cyberspace Defense Warrant Officer Basic Course (WOBC)
 ## Certification
-* CompTIA - PenTest+ / Linux+ / Security+ / Network+ / A+ / ITF+
+* CompTIA - PenTest+ / Linux+ / Security+ / Network+ / A+ / ITF+ / ITIL foundation 
