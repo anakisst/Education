@@ -1,8 +1,8 @@
 # Education
 ## Civilian
-University of Washington, Seattle - B.S. Health Informatics and Health Information Management
+* University of Washington, Seattle - B.S. Health Informatics and Health Information Management
 ## Military 
-Cyberspace Defense Warrant Officer Basic Course (WOBC)
+* Cyberspace Defense Warrant Officer Basic Course (WOBC)
 ## Certification
 * CompTIA - PenTest+ / Linux+ / Security+ / Network+ / A+ / ITF+ 
 * LPI - Linux Essentials
