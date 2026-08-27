@@ -7,3 +7,6 @@
 * CompTIA - PenTest+ / Linux+ / Security+ / Network+ / A+ / ITF+ 
 * LPI - Linux Essentials
 * ITIL - ITIL Foundation
+* IBM - Artificial Intelligence Fundamentals
+* OpenAI - AI Foundations
+* Anthropic - AI Fluency Framework & Foundations
